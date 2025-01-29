@@ -26,7 +26,7 @@ The script:
 
 Run the script:
 ```bash
-python file_sorter.py
+python main.py
 ```
 
 Follow the prompts:
